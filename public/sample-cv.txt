@@ -1,0 +1,47 @@
+T-Jay TEOGANGCO
+BSIT STUDENT | ASPIRING WEB DEVELOPER
+Cavite, Philippines
+Email: your.email@example.com (replace with your real email)
+Portfolio: Add your deployed Vercel URL
+GitHub: Add your GitHub profile URL
+
+PROFESSIONAL SUMMARY
+Information Technology student at Cavite State University building foundational skills in web development, user interface design, programming logic, and application development. Interested in creating practical, accessible, and user-friendly digital solutions.
+
+EDUCATION
+Bachelor of Science in Information Technology
+Cavite State University
+Year level: [Add your current year level]
+Expected graduation: [Add expected year]
+
+ACADEMIC / PERSONAL PROJECTS
+React Calculator
+- Built a calculator interface using React components and state.
+- Practiced event handling, arithmetic interactions, and responsive styling.
+- Project link: [Add your actual public URL]
+
+To-Do List Application
+- Practiced adding, completing, and deleting tasks with React state.
+- Used conditional rendering and responsive UI design.
+- Project link: [Add your actual public URL]
+
+Inventory Management Interface
+- Designed a basic inventory interface for presenting product information.
+- Practiced layout, forms, and front-end development fundamentals.
+- Project link: [Add your actual public URL]
+
+TECHNICAL SKILLS
+- ReactJS and JavaScript fundamentals
+- HTML and CSS
+- Tailwind CSS
+- Vite, Visual Studio Code, GitHub, and Vercel
+- SQL / database fundamentals
+- Debugging and problem solving
+
+EXPERIENCE
+Academic coursework and personal practice projects. Add internships, employment, volunteer work, or relevant activities here if applicable. Do not include experience you do not have.
+
+INTERESTS
+Web development, application design, technology, and continuous learning.
+
+IMPORTANT: This is a sample template. Replace every placeholder and verify all information before using it for applications or academic submission.
